@@ -1,1 +1,1 @@
-# mentally-bhupesh
+#gdsc_solution_challange_2023
